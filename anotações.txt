@@ -1,0 +1,45 @@
+** O QUE É HTML?? **
+
+ - Estruturar textos, criar links, imagens, vídeos, etc...
+ - Hypertext Markup Language (Linguagem de marcação de texto)
+ 
+ - Makup 
+  - Marcação de texto
+  - Elemento HTML ou tag
+    (Existem inúmeras tags e cada uma deles irá servir para um determinado propósito. Ex: imagem, texto grande, link, parágrafo, etc..)
+
+ - Sintaxe de uma tag 
+  - Como escrevemos tags HTML? 
+
+   <p>conteúdo</p>
+   <!-- Aqui vem um comentário -->
+
+ - Atributos
+  . Adicionam informações e/ou configurações á uma tag
+
+
+  Como escrevemos atributos? 
+
+   <a href="https://rocketseat.com.br">Ver site</a>
+   <img src="image.jpg" />
+
+
+
+** O QUE É CSS? **
+
+ - Estilos para o HTML
+ - Cascading Style Sheets (Folha de Estilo em cascata)
+ - Apresentação visual para o cliente 
+
+ - Declaration 
+  - Declaração 
+    (Pedaço de código que irá ditar as propriedades e valores a serem aplicadas a um elemento HTML
+  - Como escrevemos? 
+    
+    body{
+       background: black;
+       /* color: green; Essa linha será ignorada */
+     }
+
+
+     
